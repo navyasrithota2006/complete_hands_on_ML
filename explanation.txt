@@ -1,0 +1,10 @@
+ -->  python-dotenv is a package where it reads key value pairs in .env file and keep them as environment variables.
+ environment variables are the user defined values which can affect the way that running processes behave in a computer.
+ ** if application is taking configurations from environment variables then we have to manually edit them,which is impossible so we use python-dotenv.
+ -->it lets you load configurations
+ code will be like
+ "from dotenv import load_env
+  load_dotenv()"
+  check this link https://pypi.org/project/python-dotenv/
+  
+  
